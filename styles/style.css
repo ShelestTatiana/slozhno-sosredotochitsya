@@ -201,6 +201,15 @@
     gap: var(--size-xs);
 }
 
+  .header {
+    padding: var(--size-sm);
+}
+
+  .content {
+    gap: 80px;
+    padding: 60px var(--size-sm);
+}
+
   .rec-element {
     inset-block-start: 21px;
     inset-inline-end: 48px;
@@ -242,6 +251,10 @@
     gap: var(--size-sm);
   }
 
+  .article__images {
+    gap: var(--size-sm);
+}
+
   .header__title {
     justify-self: left;
     margin-left: -20px;
@@ -276,6 +289,11 @@
 @media (width >= 1024px) {
   .decorated-zone {
     height: 768px;
+  }
+
+  .decorated-zone::before {
+    inset-inline-start: var(--size-sm);
+    inset-block-end: var(--size-sm);
   }
 
   .section-what .section__article-container {

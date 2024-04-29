@@ -5,19 +5,24 @@
   --bg-color: #ff0070;
   --shadow-color: #ff0070;
   --main-text-color: #f1b2ce;  
-  --head-color: #db00ff; 
   --element-color: #ff0070;
+  --head-color: #db00ff; 
+  --image: url("../images/cover-image-dark.png");
+  --display: block;
   }
-  
+
   @media (prefers-color-scheme: dark) {
-    .page {
-      --main-bg-color: #000028;  
-      --text-color: #000028;  
-      --decor-color: #ff0070;
-      --bg-color: #ff0070;
-      --shadow-color: #ff0070;
-      --main-text-color: #f1b2ce;  
-      --head-color: #db00ff; 
-      --element-color: #ff0070;
-    }
+.page {
+  --main-bg-color: #000028;  
+  --text-color: #000028;  
+  --decor-color: #ff0070;
+  --bg-color: #ff0070;
+  --shadow-color: #ff0070;
+  --main-text-color: #f1b2ce;  
+  --element-color: #ff0070;
+  --head-color: #db00ff; 
+  --image: url("../images/cover-image-dark.png");
+  --display: block; 
   }
+}
+  

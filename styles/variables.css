@@ -16,4 +16,5 @@
   --size-l: 50px;  
 
   --image: url("../images/cover-image-dark.png");
+  --display: block;
 }

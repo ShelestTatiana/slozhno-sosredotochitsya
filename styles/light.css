@@ -5,8 +5,9 @@
   --bg-color: #ff8dcb;
   --shadow-color: #ff0070;
   --main-text-color: #353430;  
-  --head-color: #ff8dcb; 
+  --head-color: #FFC2E6; 
   --element-color: #ffc2e6; 
+  --hover-color: rgba(50, 49, 45, 0.4);
   --image: url("../images/cover-image-light.png");
   --display: none;
 }
@@ -21,6 +22,7 @@
     --main-text-color: #353430;  
     --head-color: #ff8dcb; 
     --element-color: #ffc2e6; 
+    --hover-color: rgba(50, 49, 45, 0.4);
     --image: url("../images/cover-image-light.png");
     --display: none;
   }

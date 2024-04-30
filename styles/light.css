@@ -1,5 +1,5 @@
 .page.theme_light {
-  --main-bg-color: #ffc2e6;  
+  --main-bg-color: #fff1f7;  
   --text-color: #353430;  
   --decor-color: #353430;
   --bg-color: #ff8dcb;
@@ -14,7 +14,7 @@
 
 @media (prefers-color-scheme: light) {
   .page {
-    --main-bg-color: #ffc2e6;  
+    --main-bg-color: #fff1f7;  
     --text-color: #353430;  
     --decor-color: #353430;
     --bg-color: #ff8dcb;

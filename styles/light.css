@@ -3,7 +3,8 @@
   --text-color: #353430;  
   --decor-color: #353430;
   --bg-color: #ff8dcb;
-  --shadow-color: #ff0070;
+  --shadow-color: #FF8DCB;
+  --second-shadow-color: #ff0070;
   --main-text-color: #353430;  
   --head-color: #FFC2E6; 
   --element-color: #ffc2e6; 
@@ -18,7 +19,8 @@
     --text-color: #353430;  
     --decor-color: #353430;
     --bg-color: #ff8dcb;
-    --shadow-color: #ff0070;
+    --shadow-color: #FF8DCB;
+    --second-shadow-color: #ff0070;
     --main-text-color: #353430;  
     --head-color: #ff8dcb; 
     --element-color: #ffc2e6; 

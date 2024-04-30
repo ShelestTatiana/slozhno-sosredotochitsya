@@ -325,4 +325,12 @@
   .header__theme-menu-list {
     flex-direction: row;
   }
+
+  .footer__title {
+    text-shadow: 2px 2px 0 var(--second-shadow-color);
+  }
+
+  .title {
+    text-shadow: 4px 4px 0 var(--second-shadow-color);
+  }
 }

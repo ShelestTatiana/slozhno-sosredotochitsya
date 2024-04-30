@@ -326,11 +326,13 @@
     flex-direction: row;
   }
 
+
+  .header__title {
+    text-shadow: 4px 4px 0 var(--second-shadow-color);
+  }
+
   .footer__title {
     text-shadow: 2px 2px 0 var(--second-shadow-color);
   }
 
-  .title {
-    text-shadow: 4px 4px 0 var(--second-shadow-color);
-  }
 }
